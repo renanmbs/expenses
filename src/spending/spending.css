@@ -1,0 +1,15 @@
+#spending {
+    background-color: white;
+    margin: 1rem auto;
+    max-width: 80%; 
+    padding: 20px; 
+    border: solid 2px rgba(127, 33, 33, 0.715);
+    border-radius: 20px;
+    box-sizing: border-box;
+    display: grid;
+    place-items: center;
+}
+
+#spending h3{
+    text-align: center;
+}

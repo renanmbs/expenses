@@ -1,0 +1,37 @@
+#body{
+    background-image: url('./App/back.jpeg');
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vw;
+}
+
+#header{
+    text-align: center;
+    padding: 2rem 0;
+    background-color: rgba(127, 33, 33, 0.715);
+    margin: 0 20rem;
+    color: white;
+    border-left: solid white;
+    border-bottom: solid white;
+    border-right: solid white;
+}
+
+#selection{
+    display: grid;
+    place-items: center;
+}
+
+#selection h2{
+    color: white;
+    font-size: 3rem;
+}
+
+#selection select{
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: rgba(220, 167, 32, 0.944);
+    border: solid rgba(127, 33, 33, 0.715);
+    color: white
+
+}
