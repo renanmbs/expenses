@@ -77,12 +77,12 @@ export const data = [
         renan: 0,
 
         //Bills
-        rent: 300,
+        rent: 300 + '(paid)',
         abbie_fun: 400 + ' (paid)',
         groceries: 400 + ' (paid)',
 
         //Savings
-        savings_first: 0,
+        savings_first: 1100,
         savings_second: 0,
         savings_total: 0,
 
@@ -92,7 +92,7 @@ export const data = [
         moneyTotal: 0,
 
         //Notes
-        notes: ['Disney: $566 -> $195 Payment 2/3 (Amex)', 'Hotel: $494 -> $168 Payment 2/3 (Chase)', 'Surgery: $89 -> Payment 2/12 (Amex)']
+        notes: ['Disney: $566 -> $195 Payment 2/3 (Amex)', 'Surgery: $89 -> Payment 2/12 (Amex)']
 
     },
 
@@ -124,7 +124,7 @@ export const data = [
         moneyTotal: 0,
 
         //Notes
-        notes: ['Disney: $566 -> $195 Payment 3/3 (Amex)', 'Hotel: $494 -> $168 Payment 3/3 (Chase)', 'Surgery: $89 -> Payment 3/12 (Amex)']
+        notes: ['Disney: $566 -> $195 Payment 3/3 (Amex)', 'Surgery: $89 -> Payment 3/12 (Amex)']
 
     },
 
